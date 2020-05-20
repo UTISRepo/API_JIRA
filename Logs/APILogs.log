@@ -1,0 +1,79 @@
+[INFO ] 19-05-2020 13:20:45.109 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 13:20:46.145 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 13:20:46.361 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 19-05-2020 13:20:46.464 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 13:27:15.474 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 13:27:15.965 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 13:27:16.232 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 19-05-2020 13:27:16.562 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 13:43:31.049 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 13:43:31.489 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 13:43:32.029 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 19-05-2020 13:43:32.147 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 13:57:17.255 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 13:58:29.304 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 13:59:46.165 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:00:24.096 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:01:56.911 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:02:39.423 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:02:39.885 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:02:40.535 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 19-05-2020 14:02:40.718 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:02:40.823 [main] GetIssueDetails - Details fetched Successfully for Issue
+[INFO ] 19-05-2020 14:05:43.298 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:05:43.797 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:05:44.434 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 19-05-2020 14:05:44.611 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:06:58.510 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:06:58.897 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:06:59.173 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 19-05-2020 14:06:59.290 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:08:32.784 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:08:33.219 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:08:33.476 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 19-05-2020 14:08:33.593 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:08:33.656 [main] GetIssueDetails - Details fetched Successfully for Issue
+[INFO ] 19-05-2020 14:13:20.227 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:13:20.652 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:13:20.875 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 19-05-2020 14:13:20.963 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:14:47.857 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:14:48.323 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 19-05-2020 14:14:48.523 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 19-05-2020 14:14:48.621 [main] GetIssueDetails - Details fetched Successfully for Issue
+[INFO ] 19-05-2020 14:14:48.732 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 10:24:35.287 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 10:24:37.079 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 20-05-2020 10:24:37.333 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 10:24:37.489 [main] GetIssueDetails - Details fetched Successfully for Issue
+[INFO ] 20-05-2020 10:24:37.590 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 10:32:09.270 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 10:32:09.719 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 20-05-2020 10:32:09.855 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 10:32:10.042 [main] GetIssueDetails - Details fetched Successfully for Issue
+[INFO ] 20-05-2020 10:32:10.244 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 11:17:22.301 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 11:17:23.106 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 20-05-2020 11:17:23.428 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 11:17:23.711 [main] GetIssueDetails - Details fetched Successfully for Issue
+[INFO ] 20-05-2020 11:17:23.878 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 11:21:27.416 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 11:21:28.093 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 20-05-2020 11:21:28.387 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 11:21:28.627 [main] GetIssueDetails - Details fetched Successfully for Issue
+[INFO ] 20-05-2020 11:21:28.833 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 12:01:34.760 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 12:01:35.969 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 20-05-2020 12:01:36.244 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 12:01:36.333 [main] GetIssueDetails - Details fetched Successfully for Issue
+[INFO ] 20-05-2020 12:01:36.475 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 12:03:43.019 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 12:03:43.490 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 20-05-2020 12:03:43.652 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 12:03:43.738 [main] GetIssueDetails - Details fetched Successfully for Issue
+[INFO ] 20-05-2020 12:03:43.852 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 13:11:53.187 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 13:11:54.196 [main] CreateIssue - Successfully completed CreateIssue Request
+[INFO ] 20-05-2020 13:11:54.555 [main] LoginToJira - Successfully Executed LoginAPI
+[INFO ] 20-05-2020 13:11:54.683 [main] GetIssueDetails - Details fetched Successfully for Issue
+[INFO ] 20-05-2020 13:11:54.833 [main] LoginToJira - Successfully Executed LoginAPI
